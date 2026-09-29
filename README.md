@@ -158,7 +158,7 @@ The complete citation will be added following publication.
 
 ## Authors
 
-Abubakar Bala et al.
+... et al.
 
 ## Acknowledgements
 
